@@ -1,5 +1,9 @@
 # **Tableau Dashboard: Superstore Sales Analysis** 📊  
 
+
+![Image Executive Dashboard](https://github.com/user-attachments/assets/21a6de34-b705-4e25-bb76-42125a0ddb8f)
+
+
 Welcome to my Tableau project! This repository showcases a **dynamic sales analysis dashboard** built using Tableau's default **Sample Superstore dataset**. Here's a breakdown of the journey, insights, and learnings:  
 
 ---
